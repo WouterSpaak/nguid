@@ -2,6 +2,10 @@
   "name": "nguid",
   "displayName": "nguid",
   "publisher": "wspaak",
+  "repository": {
+    "type": "git",
+    "url": "https://dev.azure.com/wspaak/_git/nguid"
+  },
   "description": "Generates a guid",
   "version": "0.0.1",
   "engines": {
