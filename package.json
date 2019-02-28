@@ -1,6 +1,7 @@
 {
   "name": "nguid",
   "displayName": "nguid",
+  "publisher": "wspaak",
   "description": "Generates a guid",
   "version": "0.0.1",
   "engines": {
