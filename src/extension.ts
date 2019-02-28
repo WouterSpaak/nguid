@@ -9,7 +9,7 @@ export function activate(context: vscode.ExtensionContext) {
         builder.insert(editor.selection.active, guid());
       });
     } else {
-      vscode.window.showInformationMessage('No editor open to insert guid.');
+      vscode.window.showInformationMessage('No editor open to insert GUID.');
     }
   });
   context.subscriptions.push(commandRef);
